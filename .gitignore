@@ -37,3 +37,10 @@
 
 # VSCode
 /.vscode/
+
+# Other Artifacts
+/collection/
+/saves/
+.lock
+meta.json
+*.pyc
